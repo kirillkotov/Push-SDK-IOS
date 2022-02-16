@@ -9,6 +9,7 @@
 
 import Foundation
 import CryptoSwift
+import Alamofire
 
 internal class PushKAPI {
     

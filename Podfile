@@ -23,6 +23,7 @@ target 'PushSDK' do
   #pod 'FirebaseCore'
   #pod 'Firebase/Core'
   #pod 'FirebaseInstanceID'
+  pod 'Alamofire'
 
   target 'PushSDKTests' do
     inherit! :search_paths
